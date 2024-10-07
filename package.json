@@ -1,0 +1,31 @@
+{
+    "name": "google-news-decoder-node",
+    "version": "0.1.0",
+    "description": "A Node.js module to decode Google News URLs into their original source URLs.",
+    "main": "google-news-decoder-node.js",
+    "scripts": {
+        "start": "node google-news-decoder-node.js",
+        "test": "node test.js"
+    },
+    "keywords": [
+        "google-news",
+        "news-decoder",
+        "google-news-url",
+        "url-decoder",
+        "nodejs"
+    ],
+    "author": "Sujit Biswas",
+    "license": "MIT",
+    "dependencies": {
+        "axios": "^1.7.7",
+        "cheerio": "^1.0.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/SSujitX/google-news-url-decoder-nodejs.git"
+    },
+    "bugs": {
+        "url": "https://github.com/SSujitX/google-news-url-decoder-nodejs/issues"
+    },
+    "homepage": "https://github.com/SSujitX/google-news-url-decoder-nodejs#readme"
+}
