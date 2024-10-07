@@ -1,6 +1,6 @@
 # Google News Decoder for Node.js
 
-[![Node.js Version](https://img.shields.io/node/v/google-news-decoder)](https://nodejs.org/)
+[![Node.js Version](https://img.shields.io/node/v/google-news-url-decoder-nodejs)]([https://nodejs.org/](https://github.com/SSujitX/google-news-url-decoder-nodejs))
 
 Google News Decoder is a Node.js module that decodes Google News URLs into their original source URLs. It is designed for developers who want to extract the actual URLs behind Google News links.
 
