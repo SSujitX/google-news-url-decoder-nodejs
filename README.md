@@ -15,6 +15,6 @@ Since this module is not published on npm, you can clone it directly from GitHub
 ```bash
 git clone https://github.com/SSujitX/google-news-decoder-nodejs.git
 cd google-news-decoder-nodejs
-npm install``
+npm install```
 
 Run the example.js file
