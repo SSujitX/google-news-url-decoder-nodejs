@@ -12,8 +12,9 @@ Google News Decoder is a Node.js module that decodes Google News URLs into their
 
 Since this module is not published on npm, you can clone it directly from GitHub:
 
-`git clone https://github.com/SSujitX/google-news-decoder-nodejs.git
-`cd google-news-decoder-nodejs
+```git clone https://github.com/SSujitX/google-news-decoder-nodejs.git
+
+```cd google-news-decoder-nodejs
 
 ## Install dependencies
 `npm install`
