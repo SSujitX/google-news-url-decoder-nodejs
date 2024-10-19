@@ -23,4 +23,4 @@ Make sure that you have axios and cheerio installed as these are required depend
 
 ## Usage
 
-`node test.js`
+```node test.js```
